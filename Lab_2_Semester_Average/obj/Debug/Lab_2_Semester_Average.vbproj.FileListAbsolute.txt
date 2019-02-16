@@ -1,0 +1,12 @@
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.exe.config
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.exe
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.pdb
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.xml
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.vbprojAssemblyReference.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.frmSemesterAverage.resources
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.Resources.resources
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.vbproj.GenerateResource.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.vbproj.CoreCompileInputs.cache
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.exe
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.xml
+D:\Apps\2nd Semester\NETD\Programs VB\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.pdb

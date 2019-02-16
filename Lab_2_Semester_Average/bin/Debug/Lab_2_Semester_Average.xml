@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab_2_Semester_Average
+</name>
+</assembly>
+<members>
+<member name="T:Lab_2_Semester_Average.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab_2_Semester_Average.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab_2_Semester_Average.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.InputValidation(System.String)">
+ <summary>
+ Function used to validate user input for the grade of the course 
+ </summary>
+ <param name="userInput"></param>
+ <returns></returns>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.DetermineLetterGrade(System.Double)">
+ <summary>
+ Function that is used to determine letter grade based on numeric grade parameter based on the provided chart
+ </summary>
+ <param name="grade"></param>
+ <returns></returns>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.TextBoxes_Leave(System.Object,System.EventArgs)">
+ <summary>
+ Event handler for all text boxes that validates user input for the grade of the course, 
+ determines a letter grade and displays it in the label next to the text box.
+ This event handler is executed when the focus is moved from the text box.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.frmSemesterAverage_Load(System.Object,System.EventArgs)">
+ <summary>
+ Load event of the frmSemesterAverage form that adds TextBoxes_Leave handler to all the text boxes as soon as the form loads
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.btnCalculate_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click event of the btnCalculate button that checks if the grades have been entered for all text boxes, then
+ calculates semester average, displays the letter grade of the semester, disables text boxes and the Calculate button
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.resetForm">
+ <summary>
+ Subroutine that is used to reset the form (clear text boxes and output labels, enable all text boxes
+ and the btnCalculate button)
+ </summary>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click event of the Reset button that resets the form using the subroutine
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Lab_2_Semester_Average.frmSemesterAverage.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Click event of the Exit button that exits the form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
